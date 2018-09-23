@@ -1,0 +1,9 @@
+Pre-requisites for running MPI code
+
+The included code was intended for Windows.
+The following link includes a guide on how to configure MS-MPI (a derivation from MPICH2)
+for MS Visual Studio, if you haven't already configured MPI for your machine.
+There is also a link on where to download MS-MPI from Microsoft.
+
+http://www.math.ucla.edu/~mputhawala/PPT.pdf
+https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi
